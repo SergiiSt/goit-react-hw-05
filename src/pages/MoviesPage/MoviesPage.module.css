@@ -1,0 +1,14 @@
+.form {
+  margin-top: 15px;
+}
+
+.input {
+  font-size: 20px;
+  width: 225px;
+}
+
+.button {
+    font-size: 20px;
+    margin-left: 8px;
+    cursor: pointer;
+}

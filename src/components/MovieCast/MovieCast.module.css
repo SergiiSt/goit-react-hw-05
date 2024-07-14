@@ -1,0 +1,14 @@
+.list {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 50px;
+  list-style: none;
+}
+
+.img {
+  width: 400px;
+}
+
+.listText{
+    font-size: 20px;
+}

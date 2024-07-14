@@ -1,0 +1,59 @@
+p,
+li {
+  font-size: 20px;
+}
+.wrap {
+  display: flex;
+  gap: 10px;
+}
+
+.linkBtn {
+  margin-top: 20px;
+}
+
+.link {
+  text-decoration: none;
+  border: 2px solid black;
+  border-radius: 4px;
+  padding: 5px;
+  color: black;
+
+  display: inline;
+}
+
+.isActive {
+  color: orangered;
+  border: 2px solid orangered;
+}
+
+.list {
+  padding: 0;
+  list-style: none;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 30px;
+}
+
+.listItem {
+  border: 2px solid black;
+  padding: 10px;
+}
+
+.flex {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: 160px;
+}
+
+.tagline {
+  width: 400px;
+}
+
+.margin {
+  margin-left: 46px;
+}
+
+.innerList {
+  padding-right: 40px;
+}

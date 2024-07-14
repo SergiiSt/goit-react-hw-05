@@ -1,0 +1,19 @@
+.wrapper {
+  display: flex;
+  gap: 20px;
+}
+
+.link {
+  text-decoration: none;
+  border: 2px solid black;
+  border-radius: 4px;
+  padding: 5px;
+  color: black;
+
+  display: inline;
+}
+
+.isActive {
+  color: orangered;
+  border: 2px solid orangered;
+}
